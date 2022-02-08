@@ -1,7 +1,7 @@
 {
   "name": "gendata",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "gendata.js",
   "license": "MIT",
   "dependencies": {
     "faker": "^5.5.3"
